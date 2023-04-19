@@ -1,0 +1,6 @@
+.iconcontainer {
+  flex-basis: 30%;
+}
+.iconcontainer svg {
+  max-height: 110px;
+}/*# sourceMappingURL=WeatherIcon.module.css.map */
